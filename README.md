@@ -1,4 +1,4 @@
 CVspanish
 =========
 
-curriculum en español
+curriculum en español :)
